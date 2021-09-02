@@ -4,7 +4,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((800,600))
 # Title
-pygame.display.set_caption("copyassignment")
+pygame.display.set_caption("Python Västerås - the game")
 isRunning = True
 
 #Loading image
